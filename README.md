@@ -39,3 +39,5 @@
 [2020.03-2021.07] | "대학생 창업 동아리 JCJ : 팀원/개발"
 - 창업 유망 300팀 (본선진출)
 ```
+### 🌟 blog
+- https://back-development.tistory.com/
